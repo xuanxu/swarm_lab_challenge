@@ -1,4 +1,5 @@
-swarm_lab_challenge
-===================
 
-Ruby code for the rounds of the challenge at Swarm Lab: http://www.theswarmlab.com/r-vs-python-round-1/
+Ruby version for the code challenge at Swarm Lab
+
+http://www.theswarmlab.com/r-vs-python-round-1/
+http://www.theswarmlab.com/r-vs-python-round-2/
