@@ -51,8 +51,3 @@ CSV.open("movies.csv", "w") do |csv|
     csv << [movie[:title], movie[:year], movie[:imdb], movie[:kill_count]]
   end
 end
-
-
-
-
-
